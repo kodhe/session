@@ -6,7 +6,7 @@
   "license": "MIT",
   "require": {
     "php": ">=8.1",
-    "kodhe/database": "^1.0 || ^2.0 || dev-main"
+    "kodhe/database": "^1.0 || ^2.0"
   },
   "suggest": {
     "ext-memcached": "Memcached session driver",
